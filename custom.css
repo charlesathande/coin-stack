@@ -1,0 +1,14 @@
+#case{
+     width:640px;
+     padding-left:80px;
+     padding-top: 90px;
+}
+#search{
+       border-color: beige;
+}
+.container{
+     display: flex;
+}
+#img{
+     padding-right: 90px;
+}
